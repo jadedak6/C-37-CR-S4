@@ -1,2 +1,2 @@
-# C-37-CR-S4
-This the fourth stage of my car racing game. I set the game camera and display size.
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
